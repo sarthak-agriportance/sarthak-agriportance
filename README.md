@@ -109,11 +109,12 @@ const sarthak = {
 <div align="center">
 
 ```
- ___       _____         _   _____               _                  
-|   \ ___ |_   _|__  ___| |_|_   _| _ __ _ _ __ | |___ _ __  ___ _ _ 
-| |) / -_)  | |/ -_)/ _| ' \ | || '_/ _` | '_ \| / _ \ '  \/ -_) '_|
-|___/\___|  |_|\___|\__|_||_||_||_| \__,_| .__/|_\___/_|_|_\___|_|  
-                                          |_|                         
+    _             _ ____            _                        
+   / \   __ _ _ _(_)  _ \ ___  _ __| |_ __ _ _ __   ___ ___ 
+  / _ \ / _` | '__| | |_) / _ \| '__| __/ _` | '_ \ / __/ _ \
+ / ___ \ (_| | |  | |  __/ (_) | |  | || (_| | | | | (_|  __/
+/_/   \_\__, |_|  |_|_|   \___/|_|   \__\__,_|_| |_|\___\___|
+        |___/                                                  
 
    🌱 Agriculture + Technology = Sustainable Future 🌍
 ```
@@ -148,16 +149,6 @@ const sarthak = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/sarthak-agriportance/sarthak-agriportance/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 Show Some Love!
@@ -166,8 +157,6 @@ If you like my work, consider giving a ⭐ to my repositories!
 
 **"The best way to predict the future is to create it."** - Peter Drucker
 
-### Thanks for visiting! 😊
-
-![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+### Thanks for visiting! 👋😊
 
 </div>
