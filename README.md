@@ -88,7 +88,7 @@ const sarthak = {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthak-agriportance&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthak-agriportance&theme=tokyonight&hide_border=true&area=true)
 
 </div>
 
@@ -109,12 +109,12 @@ const sarthak = {
 <div align="center">
 
 ```
-    _             _ ____            _                        
-   / \   __ _ _ _(_)  _ \ ___  _ __| |_ __ _ _ __   ___ ___ 
+    _             _ ____            _
+   / \   __ _ _ _(_)  _ \ ___  _ __| |_ __ _ _ __   ___ ___
   / _ \ / _` | '__| | |_) / _ \| '__| __/ _` | '_ \ / __/ _ \
  / ___ \ (_| | |  | |  __/ (_) | |  | || (_| | | | | (_|  __/
 /_/   \_\__, |_|  |_|_|   \___/|_|   \__\__,_|_| |_|\___\___|
-        |___/                                                  
+        |___/
 
    🌱 Agriculture + Technology = Sustainable Future 🌍
 ```
